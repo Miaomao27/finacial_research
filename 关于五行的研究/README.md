@@ -102,7 +102,8 @@ python3 generate_all_plots.py
 ## 📚 延伸阅读
 
 - 📄 **[综合研究报告](综合研究报告.md)** — 完整的学术级研究报告，含全部图表和分析
-- 🧠 **[alternative-hypothesis-testing](/home/cpy/.hermes/skills/data-science/alternative-hypothesis-testing/SKILL.md)** — 该研究使用的统计检验框架skill
+- 🛠️ **[可视化图表生成技能](技能/wuxing-research-visualization.md)** — 出版级 matplotlib 图表生成工具（含 academic_style.py 样式模块）
+- 🧪 **[统计检验框架技能](技能/alternative-hypothesis-testing.md)** — 三层递进分析框架（Kruskal-Wallis + OLS回归 + 稳健性检验）
 
 ---
 
