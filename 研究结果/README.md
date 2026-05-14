@@ -53,3 +53,5 @@ python3 脚本/generate_paper_docx.py    # 重新生成论文.docx
 
 - 统计分析脚本：使用本地 Python + MySQL 数据库跑算
 - 论文撰写：当前由 deepseek-v4-flash 完成
+
+研究结果/结论报告.md
