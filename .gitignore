@@ -41,10 +41,10 @@ logs/
 *.bak
 *.backup
 
-# Large data files
+# Archives
 *.zip
 *.tar.gz
 *.rar
 
-# Holding period research - per-stock intermediate CSVs (regeneratable)
-关于五行的研究/五行月份持有期收益研究/analysis/by_stock/
+# Phase 2 - per-stock intermediate CSVs (regeneratable)
+第二阶段_五行月份持有期收益研究/analysis/by_stock/
